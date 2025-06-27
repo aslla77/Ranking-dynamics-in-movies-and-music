@@ -1,1 +1,1 @@
-# https-github.com-aslla77-Ranking-dynamics-in-movies-and-music
+# Ranking-dynamics-in-movies-and-music
